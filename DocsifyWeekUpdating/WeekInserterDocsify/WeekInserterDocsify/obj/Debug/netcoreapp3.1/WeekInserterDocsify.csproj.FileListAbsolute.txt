@@ -1,0 +1,14 @@
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\bin\Debug\netcoreapp3.1\WeekInserterDocsify.exe
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\bin\Debug\netcoreapp3.1\WeekInserterDocsify.deps.json
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\bin\Debug\netcoreapp3.1\WeekInserterDocsify.runtimeconfig.json
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\bin\Debug\netcoreapp3.1\WeekInserterDocsify.runtimeconfig.dev.json
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\bin\Debug\netcoreapp3.1\WeekInserterDocsify.dll
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\bin\Debug\netcoreapp3.1\WeekInserterDocsify.pdb
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.csproj.AssemblyReference.cache
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.AssemblyInfoInputs.cache
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.AssemblyInfo.cs
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.csproj.CoreCompileInputs.cache
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.dll
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.pdb
+C:\Users\ck\Desktop\DocsifyWeekUpdating\WeekInserterDocsify\WeekInserterDocsify\obj\Debug\netcoreapp3.1\WeekInserterDocsify.genruntimeconfig.cache
