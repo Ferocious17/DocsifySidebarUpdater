@@ -49,7 +49,7 @@ namespace WeekInserterDocsify
         private static void _prompt()
         {
             
-            Console.Write("Directory path (docs): ");
+            Console.Write("Directory path (docs or weeks): ");
             path = Console.ReadLine();
 
             if (weekSpecified)
